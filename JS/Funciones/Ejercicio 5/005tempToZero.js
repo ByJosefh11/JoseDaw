@@ -19,3 +19,7 @@ function pasarSegundo(tiempo){
 }
 
 temporizador (77);
+
+
+
+

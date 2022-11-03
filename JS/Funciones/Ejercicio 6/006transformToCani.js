@@ -6,8 +6,7 @@ function cadenacani(texto) {
         console.log("");
       document.write(texto.substring(i, i+1).toUpperCase());
 
-      //strtoupper sirve para poner la zona en mayuscula
-      //substr recoge la letra de la posicion en la que está
+
     } else {
         document.write(texto.substring(i, i+1).toLowerCase());
     }
